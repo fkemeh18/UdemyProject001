@@ -1353,3 +1353,6 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2025.01.02-03.53.48:463][ 26]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-cddjhhDwAE-W2Lzq0HiWCQ-_hJWoEqrvkK9PnbIv4noSw]
 [2025.01.02-03.54.07:818][148]LogSlate: Took 0.007262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2025.01.02-03.54.23:611][289]LogDerivedDataCache: C:/Users/fkeme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.02-03.59.20:253][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 345.107239
+[2025.01.02-03.59.21:590][526]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-03.59.21:590][526]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.106201, Update Interval: 348.271729
