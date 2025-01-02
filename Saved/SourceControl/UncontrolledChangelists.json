@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject001/Content/ThirdPerson/Blueprints/BP_Pickup.uasset",
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject001/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AH/WOFZAZ7VFQO2GZWGUH0LX7.uasset",
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject001/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TX/8TUPTOR6WVGYX61DZE4QFF.uasset",
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject001/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/U9/EN3R8J4I9S28XRNG3AKOG5.uasset",
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject001/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/1D/SBV8DLCFWV9YXCH6O8X83W.uasset",
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject001/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MS/SQ09ODSSTQAIPYSTL2LPHM.uasset",
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject001/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
